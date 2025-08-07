@@ -8,7 +8,9 @@
 
 ## 📖 Overview
 This repository contains a comprehensive automated testing project built with Python, Selenium, and Allure Reports. <br>
-The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
+The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.<br><br>
+Check out my **website** to see a live demonstration video of my automation project in action!<br>
+https://MadMax-G.github.io/Selenium_Automation-_Final_Project/
 <br>
 
 ## 📑 Technologies & Skill & Features
